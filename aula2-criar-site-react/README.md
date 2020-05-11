@@ -7,7 +7,8 @@ Rodar o projeto
 ### `npm rum dev`
 
 -------------------------------
-CRIAR O PROJETO
+## CRIAR O PROJETO:
+
 Criar o package
 ### `npm init`
 
@@ -15,11 +16,13 @@ Instalar o react e o next
 ### `npm install --save next react react-dom`
 
 Abra package.jsone adicione o seguinte scripts:
-"scripts": {
+ ```
+ "scripts": {
   "dev": "next",
   "build": "next build",
   "start": "next start"
-}
+} 
+```
 
 Rodar o projeto
 ### `npm rum dev`
